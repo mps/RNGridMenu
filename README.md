@@ -140,7 +140,7 @@ If you've used this project in a live app, please <a href="mailTo:rnystrom@whois
 
 ## Contact
 
-* [@nystrorm](https://twitter.com/_ryannystrom) on Twitter
+* [@_ryannystrom](https://twitter.com/_ryannystrom) on Twitter
 * [@rnystrom](https://github.com/rnystrom) on Github
 * <a href="mailTo:rnystrom@whoisryannystrom.com">rnystrom [at] whoisryannystrom [dot] com</a>
 
